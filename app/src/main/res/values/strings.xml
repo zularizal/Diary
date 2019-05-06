@@ -41,5 +41,7 @@
         <item>Text</item>
         <item>Number</item>
     </string-array>
+    <string name="title_activity_options">Options</string>
+    <string name="options">Options</string>
 
 </resources>

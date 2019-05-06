@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".history.HistoryActivity" />
+        <activity
+            android:name=".options.OptionsActivity"
+            android:label="@string/title_activity_options" />
         <activity android:name=".main.MainActivity" />
         <activity android:name=".creator.TemplateItemCreatorActivity" />
         <activity android:name=".viewer.TemplateItemViewerActivity" />
